@@ -1,0 +1,46 @@
+name: Skill proposal
+description: Propose a new reusable skill for the library.
+title: "[Skill]: "
+labels:
+  - skill
+body:
+  - type: input
+    id: skill_name
+    attributes:
+      label: Skill name
+      placeholder: e.g. research-sprint
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem this solves
+      description: What recurring pain does this skill remove?
+      placeholder: Describe the high-value problem this skill addresses.
+    validations:
+      required: true
+
+  - type: textarea
+    id: trigger
+    attributes:
+      label: Trigger conditions
+      description: When should this skill activate?
+      placeholder: List concrete trigger signals.
+    validations:
+      required: true
+
+  - type: textarea
+    id: output
+    attributes:
+      label: Expected output quality
+      description: What does excellent output look like?
+      placeholder: Describe specific behaviors and quality checks.
+    validations:
+      required: true
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Real-world examples
+      description: Optional examples from your workflow.
