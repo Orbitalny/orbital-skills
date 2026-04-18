@@ -27,7 +27,7 @@ This repo focuses on skills that improve quality across coding, writing, strateg
 
 | Skill | Purpose | Level |
 |---|---|---|
-| [`skills/work-hard-skill.md`](./skills/work-hard-skill.md) | Universal quality/execution upgrade for non-trivial tasks | Core |
+| [`skills/hard-work.md`](./skills/hard-work.md) | Universal quality/execution upgrade for non-trivial tasks | Core |
 
 ---
 
@@ -45,6 +45,11 @@ This repo focuses on skills that improve quality across coding, writing, strateg
 - Follow **[@sguestsett](https://twitter.com/sguestsett)** for updates and new drops
 - Tag **[@sguestsett](https://twitter.com/sguestsett)** when you ship with these skills
 - Share results with `#orbitalskills`
+
+## Built With
+
+- Builders using Cursor, Copilot, Claude, and ChatGPT workflows
+- Solo creators shipping real output with AI every day
 
 If this repo helped you ship better work, drop a ⭐.
 

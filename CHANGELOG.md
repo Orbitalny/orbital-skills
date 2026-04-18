@@ -7,5 +7,9 @@ All notable changes to this project are documented in this file.
 ### Added
 
 - Initial public launch structure
-- First core skill: `skills/work-hard-skill.md`
-- Community standards and contribution templates
+- First core skill: `skills/hard-work.md`
+
+### Changed
+
+- Simplified repository to a creator-led, minimal structure
+- Moved first skill into dedicated `skills/` directory
