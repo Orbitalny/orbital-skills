@@ -7,5 +7,5 @@ All notable changes to this project are documented in this file.
 ### Added
 
 - Initial public launch structure
-- First core skill: `work-hard.md`
+- First core skill: `work-hard-skill.md`
 - Community standards and contribution templates

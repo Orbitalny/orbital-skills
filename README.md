@@ -25,7 +25,7 @@ This repo focuses on skills that improve quality across coding, writing, strateg
 
 | Skill | Purpose | Level |
 |---|---|---|
-| [`work-hard.md`](./work-hard.md) | Universal quality/execution upgrade for non-trivial tasks | Core |
+| [`work-hard-skill.md`](./work-hard-skill.md) | Universal quality/execution upgrade for non-trivial tasks | Core |
 
 ---
 
