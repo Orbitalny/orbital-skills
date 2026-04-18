@@ -2,12 +2,14 @@
 
 Open-source, high-leverage AI skills for builders who ship.
 
-`orbital-skills` is a community collection of reusable prompt-skills and execution standards for AI-assisted work. Each skill is designed to be:
+Built and curated by **[@sguestsett](https://twitter.com/sguestsett)**.
+
+`orbital-skills` is a curated collection of reusable prompt-skills and execution standards for AI-assisted work. Each skill is designed to be:
 
 - **Composable**: stack with other skills
 - **Practical**: ready to use in real workflows
 - **Opinionated**: optimized for output quality, not average output
-- **Open**: built in public with clear contribution standards
+- **Creator-led**: built in public with a sharp, consistent voice
 
 If you build with AI daily, this repo is for you.
 
@@ -25,7 +27,7 @@ This repo focuses on skills that improve quality across coding, writing, strateg
 
 | Skill | Purpose | Level |
 |---|---|---|
-| [`work-hard-skill.md`](./work-hard-skill.md) | Universal quality/execution upgrade for non-trivial tasks | Core |
+| [`skills/work-hard-skill.md`](./skills/work-hard-skill.md) | Universal quality/execution upgrade for non-trivial tasks | Core |
 
 ---
 
@@ -34,39 +36,22 @@ This repo focuses on skills that improve quality across coding, writing, strateg
 1. Pick a skill from the library.
 2. Paste it into your AI workspace/context.
 3. Give your task.
-4. Iterate and contribute improvements back.
-
----
-
-## How to contribute a new skill
-
-Use the template in [`SKILL_TEMPLATE.md`](./SKILL_TEMPLATE.md), then open a PR.
-
-Good skills are:
-
-- specific in trigger conditions
-- explicit in execution standards
-- concrete in output expectations
-- tested on real tasks (not toy examples)
-
-See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for full details.
+4. Apply it to real output and iterate fast.
 
 ---
 
 ## Community
 
-- Share what you build with `#orbitalskills`
-- Open discussions and requests in GitHub Discussions/Issues
-- Follow and tag **[@sguestsett](https://twitter.com/sguestsett)** when shipping with these skills
+- Follow **[@sguestsett](https://twitter.com/sguestsett)** for updates and new drops
+- Tag **[@sguestsett](https://twitter.com/sguestsett)** when you ship with these skills
+- Share results with `#orbitalskills`
 
 If this repo helped you ship better work, drop a ⭐.
 
 ---
 
-## Repo standards
+## License
 
-- [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)
-- [`SECURITY.md`](./SECURITY.md)
 - [`LICENSE`](./LICENSE)
 
 Built for the AI vibe coders community.
